@@ -274,7 +274,7 @@ img {
 
   .section-top {
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 12.5rem;
+    grid-gap: 10rem;
   }
 
   .section-summary {
