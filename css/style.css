@@ -285,6 +285,7 @@ img {
     padding: 2rem 3.2rem;
     border-radius: 0.8rem;
     text-align: left;
+    max-width: 44.5rem;
 
     grid-template-columns: max-content 1fr;
     align-items: center;
